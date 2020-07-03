@@ -1,0 +1,21 @@
+{
+    "name": "qinmeng/qinmeng",
+    "description": "This is for qinmeng",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luyu",
+            "email": "595080590@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.0.0"
+    },
+  "autoload": {
+    "psr-4": {
+      "Qinmeng\\luyu\\": "src/Qinmeng/luyu"
+    }
+  }
+}
